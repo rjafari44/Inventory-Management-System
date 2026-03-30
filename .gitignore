@@ -1,0 +1,9 @@
+# Ignore VS Code C++ IntelliSense settings
+.vscode/c_cpp_properties.json
+
+# ignore the test object
+test
+
+# Optional: ignore compiled binaries
+*.o
+*.exe
