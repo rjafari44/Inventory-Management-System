@@ -1,4 +1,4 @@
-#include "common.hpp"
+#include "common.h"
 
 /* 
   function to validate user deposit, returns a boolean value

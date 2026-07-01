@@ -1,4 +1,4 @@
-#include "common.hpp"
+#include "common.h"
 
 // to remove the need for adding std:: everytime I want to use cout and cin
 using std::cin, std::cout;
